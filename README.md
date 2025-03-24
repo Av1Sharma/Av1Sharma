@@ -1,2 +1,2 @@
 # Hi There!
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Av1Sharma&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Av1Sharma&theme=github_dark" alt="Repos per language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Av1Sharma&theme=github_dark" alt="Most Commit Language" /> </p>
+I solve difficult problems. 
