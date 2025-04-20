@@ -1,1 +1,2 @@
-I solve difficult problems. 
+I enjoy solving difficult problems.
+| Contact me at: asharmava1@gmail.com
